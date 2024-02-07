@@ -1,2 +1,2 @@
 # Google-Data-Analytics-
-Capstone Project - Cyclistic bike share analysis
+Capstone Project - Cyclistic Bike Share Analysis
